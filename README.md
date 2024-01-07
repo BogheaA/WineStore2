@@ -32,4 +32,26 @@
     3. Add html
     4. Add css
 
+6. Tags Bar
+  1. Create Tag model
+  2. Add sample tags to data.ts
+  3. Wine service
+    1. Add get all tags method
+    2. Add get all wines by tag method
+  4. Add tags route
+  5. Show tag result in Home component
+  6. Generate Tags component
+    1. Add to home component
+    2. Add ts
+    3. Add html
+    4. Add css    
+
+7. Wine PAGE
+  1. Add method to wine service
+  2. Generate Wine Page component
+    1. Add Route
+    2. Add html
+    3. Add css 
+    4. Add ts
+
   
