@@ -54,4 +54,24 @@
     3. Add css 
     4. Add ts
 
+8. Create Cart PAGE
+  1. Create Cart item model
+  2. Create Cart Model
+  3. Generate Cart service
+  4. Add to Cart button in Wine Page
+  5. Generate Cart page component
+    1. Add route
+    2. Add ts
+    3. Add html
+    4. Add css
+
+9. NOT FOUND a element
+  1. Generate Component
+    ts,html,css
+  2. Add to pages
+    1. Home page
+    2. WIne page
+    3. Cart page
+
+
   
