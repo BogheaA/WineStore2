@@ -73,5 +73,22 @@
     2. WIne page
     3. Cart page
 
+10. Create backend
+ 1. Backend folder
+ 2. npm install
+ 3. npm install typescript
+ 4. Create tsconfig.json
+ 5. create .gitignore
+ 6. copy data.ts to backend
+ 7. npm install express cors
+ 8. Create server.ts
+  1. install @types
+  2. add apis
+9. npm install nodemon ts-node --save-dev
+10. Add urls.ts to frontend
+11. Add httpClient module
+12. Update wine service
+
+
 
   
