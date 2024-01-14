@@ -89,6 +89,31 @@
 11. Add httpClient module
 12. Update wine service
 
+11. Login Page
+ 1. Generate Component
+   1. Add to routes
+   2. Add ts
+   3. Add html
+      1. Import Reactive Forms Module
+   4. Add css
+ 2. Add login Api
+   1. Use json
+   2. Add jsonwebtoken
+ 3. Generate User Service
+    1. Generate User model
+    2. Add User Subject
+    3. Add Login Method
+      1.Add user urls
+      2.Generate IUserLogin interface
+      3.Add ngx-toastr
+       1. Import module
+       2. Import BrowserAnimationModule
+       3. Add styles in angular.json
+   4. Add to header
+   5. AddLocal Storage methods
+   6. Add logout Method
+     1. Add header
+
 
 
   
