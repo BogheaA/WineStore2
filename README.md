@@ -134,6 +134,10 @@
  3. Add register link
  4. Add register component
 
+ to run the site 
+ go to backend - run npm start
+ go to frontend - run ng serve -o
+
 
 
   
